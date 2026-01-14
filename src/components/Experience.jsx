@@ -7,7 +7,7 @@ import node from "../assets/node.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
 import express from "../assets/express.png";
-import mongoDB from "../assets/mongoDB.png";
+import mongoDB from "../assets/mongodb.png";
 import bootstrap from "../assets/bootstrap.png";
 import redux from "../assets/redux.png";
 
